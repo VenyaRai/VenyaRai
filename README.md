@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Venya Rai 👋
 
-<!--
-**VenyaRai/VenyaRai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence and Data Science Undergraduate
 
-Here are some ideas to get you started:
+I love exploring how technology works and discovering what can be built with it. As an AI & Data Science student, I'm constantly learning, experimenting with ideas, and challenging myself through projects. I'm here to document my journey, share what I build, and grow as a developer one step at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Python and Java
+- Data Structures and Algorithms
+- Machine Learning
+- Git and GitHub
+- Open-Source Development
+
+### 💻 Technologies & Tools
+- **Languages:** Python, Java, C
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab
+
+### 🚀 Projects
+- VTU AI Study Assistant
+- Cafe Management System
+
+### 🎯 Goals
+- Strengthen my programming and problem-solving skills.
+- Contribute to open-source projects.
+- Explore opportunities in software development and AI.
+
